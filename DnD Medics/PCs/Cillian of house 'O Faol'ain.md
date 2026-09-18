@@ -1,7 +1,10 @@
 Pronounced "Kill-ee-an Oh Fway-lawn" 
-
 # DM Summary
 Trained to become a Knight and skilled swordsman. Older brother mysteriously disappears, and is presumed dead by father. Cillian has set out to try and find him, refusing to believe that he has died. Secretly, his search is a guise to abdicate his own responsibility of succeeding as family patriarch in his brothers stead.  
+### Motivations / Goals / Desires
+- Find brother (or what happened to him)
+	- Work out a way to avoid becoming the ruler of the house
+- Continue to improve martial skill
 
 # Backstory
 Second son of the once proud O Faol'ain house, **Cillian** grew up in a relatively lavish lifestyle.
