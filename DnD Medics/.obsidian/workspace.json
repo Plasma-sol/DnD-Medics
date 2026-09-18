@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 233.702392578125
   },
   "right": {
     "id": "f89447972bbac544",
@@ -200,5 +200,8 @@
     }
   },
   "active": "6df4dc9146ed2913",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Welcome.md",
+    "PCs/Cillian of house 'O Faol'ain.md"
+  ]
 }
